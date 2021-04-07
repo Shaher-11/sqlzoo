@@ -3,7 +3,7 @@
 # SQLZOO
 
 > This project for practicing and further understanding of SQL by finishing the sql quizzes on SQLZOO.
->This repo contains the solutions for all the questions on SQLZOO.
+>The repo contains the solutions for all the questions on SQLZOO.
 
 ## Built With
 
